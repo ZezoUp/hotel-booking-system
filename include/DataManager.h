@@ -12,3 +12,5 @@ private:
     static const std::string FILENAME;
     static std::string escapeJson(const std::string& s);
 };
+
+//Erledigt fertig
