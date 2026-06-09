@@ -1,0 +1,9 @@
+build/
+*.o
+*.a
+moc_*
+ui_*
+HotelBooking
+HotelBooking.exe
+*.pro.user
+hotel_data.json
