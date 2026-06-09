@@ -10,10 +10,9 @@
 
 | Person | Rolle |
 |--------|-------|
-| **Zain** | Product Owner (PO) |
-| **Abdul** | Scrum Master (SM) |
+| **Zaen** | Scrum Master (SM) |
+| **Abdul** | Developer |
 | **Samih** | Developer |
-| **Alle** | Developer |
 
 ---
 
