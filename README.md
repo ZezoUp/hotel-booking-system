@@ -1,5 +1,5 @@
 # Hotel Booking System
-Team: Abdul, Zain, Samih — Hochschule Esslingen
+Team: Abdul, Zaen, Samih — Hochschule Esslingen
 
 ## Login
 | Rolle  | Benutzername | Passwort |
